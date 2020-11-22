@@ -11,9 +11,13 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-inactive?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-inactive?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-inactive?style=flat&logo=Java&logoColor=007396)
+  - Languages &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-inactive?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-inactive?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-inactive?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -22,6 +26,14 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=ruby)
+  - 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-inactive?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-inactive?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-inactive?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-inactive?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-inactive?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-inactive?style=flat&logo=react)
+  ![Rails](https://img.shields.io/badge/-Rails-inactive?style=flat&logo=ruby)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -44,7 +56,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://satu0king.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-satu0king.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://satu0king.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-satu0king.github.io-orange?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/satvik-ramaprasad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Satvik%20Ramaprasad-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:satvik@circuitverse.org"><img alt="Email" src="https://img.shields.io/badge/Email-satvik@circuitverse.org-blue?style=flat-square&logo=gmail"></a>
 </p>
